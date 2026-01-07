@@ -1,0 +1,11 @@
+=== Themes & Icons ===
+
+GTK Themes:
+catppuccin-gtk-temp
+catppuccin-mocha-mauve-standard+default
+catppuccin-mocha-mauve-standard+default-hdpi
+catppuccin-mocha-mauve-standard+default-xhdpi
+
+Icon Themes:
+Bibata-Modern-Classic
+catppuccin-mocha-dark-cursors

@@ -1,0 +1,12 @@
+jellyfin/jellyfin:latest
+dockurr/macos:latest
+ghcr.io/sim0n00ps/of-dl:latest
+localstack/localstack:latest
+public.ecr.aws/lambda/python:3.8
+job-post-rest-api:latest
+eclipse-temurin:21-jre
+eclipse-temurin:21-jre-alpine
+postgres:latest
+alfaarghya/alfa-leetcode-api:2.0.1
+frooodle/s-pdf:latest
+alpine:3.16.3

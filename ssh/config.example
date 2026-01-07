@@ -1,0 +1,10 @@
+Host 134.209.148.84
+  HostName 134.209.148.84
+  User root
+
+# Docker Remote Host Configuration
+Host docker-remote
+  HostName 139.59.22.193
+  User root
+  #IdentityFile <PATH_TO_KEY>
+  StrictHostKeyChecking no

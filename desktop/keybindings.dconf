@@ -1,0 +1,41 @@
+[/]
+close=['<Super>q']
+maximize=@as []
+switch-input-source=@as []
+switch-input-source-backward=@as []
+unmaximize=@as []
+[/]
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom3/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom4/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom5/']
+play=['<Primary>space']
+terminal=['<Super>t']
+www=['<Super>c']
+
+[custom-keybindings/custom0]
+binding='<Super>v'
+command='/usr/bin/diodon'
+name='diodon'
+
+[custom-keybindings/custom1]
+binding=''
+command='/home/ahad/Desktop/Scripts/play_pause.sh'
+name='play/pause'
+
+[custom-keybindings/custom2]
+binding='<Primary>Right'
+command='/home/ahad/Desktop/Scripts/forward.sh'
+name='forward'
+
+[custom-keybindings/custom3]
+binding='<Primary>Left'
+command='/home/ahad/Desktop/Scripts/backward.sh'
+name='backward'
+
+[custom-keybindings/custom4]
+binding='<Primary>d'
+command='/home/ahad/Desktop/displ.sh'
+name='Display'
+
+[custom-keybindings/custom5]
+binding='<Super>b'
+command='gnome-control-center bluetooth'
+name='bluetooth'
