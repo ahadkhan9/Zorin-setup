@@ -1,0 +1,52 @@
+# URL Shortcuts Configuration
+# Format: alias=url
+# Lines starting with # are comments
+
+# Development
+github=https://github.com
+stackoverflow=https://stackoverflow.com
+mdn=https://developer.mozilla.org
+npm=https://www.npmjs.com
+pypi=https://pypi.org
+
+# Documentation
+py=https://docs.python.org/3
+fastapi=https://fastapi.tiangolo.com
+react=https://react.dev
+nextjs=https://nextjs.org
+django=https://docs.djangoproject.com
+
+# Learning
+leetcode=https://leetcode.com
+hackerrank=https://www.hackerrank.com
+freecodecamp=https://www.freecodecamp.org
+coursera=https://www.coursera.org
+udemy=https://www.udemy.com
+
+# Social/News
+reddit=https://www.reddit.com
+hn=https://news.ycombinator.com
+twitter=https://twitter.com
+linkedin=https://www.linkedin.com
+medium=https://medium.com
+
+# AI/Tools
+chatgpt=https://chat.openai.com
+claude=https://claude.ai
+gemini=https://gemini.google.com
+huggingface=https://huggingface.co
+kaggle=https://www.kaggle.com
+
+# Video
+youtube=https://www.youtube.com
+netflix=https://www.netflix.com
+udemy=https://www.udemy.com
+coursera=https://www.coursera.org
+
+# Other
+gmail=https://mail.google.com
+drive=https://drive.google.com
+calendar=https://calendar.google.com
+maps=https://maps.google.com
+translate=https://translate.google.com
+

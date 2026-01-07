@@ -1,0 +1,15 @@
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[user]
+	email = ahadkhan5547@gmail.com
+	name = Ahad Khan
+[safe]
+	directory = /mnt/D6E012A9E012903B/Obsidian
+	directory = /mnt/D6E012A9E012903B/Repair Tv
+	directory = /mnt/D6E012A9E012903B/backend/project01_backend
+[core]
+	autocrlf = input
