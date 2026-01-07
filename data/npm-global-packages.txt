@@ -1,0 +1,10 @@
+@anthropic-ai/claude-code
+corepack
+@google/gemini-cli
+http-server
+md-to-pdf
+@mermaid-js/mermaid-cli
+npm
+tldr
+uipro-cli
+vercel

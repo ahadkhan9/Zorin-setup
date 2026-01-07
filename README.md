@@ -19,8 +19,15 @@ Setup/
 ├── tools/
 │   ├── atuin-config.toml # Shell history sync
 │   └── btop.conf    # System monitor config
-└── data/
-    └── url-shortcuts.txt # 50+ URL bookmarks
+├── data/
+│   ├── url-shortcuts.txt   # 50+ URL bookmarks
+│   ├── apt-packages.txt    # 416 APT packages
+│   ├── pip-packages.txt    # 370 Python packages
+│   ├── cargo-binaries.txt  # 19 Rust CLI tools
+│   ├── npm-global-packages.txt # 10 npm packages
+│   └── snap-packages.txt   # 19 snap apps
+├── dev-environment.md  # Full dev tools reference
+└── macos-setup.md      # macOS installation guide
 ```
 
 ## ⚡ Key Features in zshrc
